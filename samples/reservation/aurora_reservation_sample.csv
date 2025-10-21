@@ -1,0 +1,6 @@
+reservation_id,store_id,reservation_date,reservation_time,party_size,duration_minutes,booking_channel,customer_id,customer_name,customer_phone,customer_email,status,cancellation_reason,notes,created_at,updated_at
+AR-20240501-0001,STR-001,2024-05-03,18:00,4,90,Web,CUST-1001,佐藤花子,+81-90-1111-2222,hanako@example.com,Confirmed,,誕生日ケーキあり,2024-04-30T10:05:00+09:00,2024-04-30T10:05:00+09:00
+AR-20240501-0002,STR-001,2024-05-03,20:00,2,,Phone,,田中太郎,+81-80-3333-4444,,Hold,,アレルギー：甲殻類,2024-04-30T11:20:00+09:00,2024-05-01T09:00:00+09:00
+AR-20240501-0003,STR-002,2024-05-04,19:30,3,120,Partner,CUST-2030,Lee Min,+82-10-5555-6666,min.lee@example.com,Cancelled,Guest request,窓際席希望,2024-04-29T14:10:00+09:00,2024-05-01T08:30:00+09:00
+AR-20240501-0004,STR-003,2024-05-02,12:00,1,60,Web,CUST-4501,Smith John,+1-310-777-8888,jsmith@example.com,Confirmed,,無し,2024-04-30T09:00:00+09:00,2024-04-30T09:05:00+09:00
+AR-20240501-0005,STR-003,2024-05-02,13:30,6,120,Phone,CUST-7777,鈴木次郎,+81-70-9999-0000,jirou@example.com,Confirmed,,個室希望,2024-04-30T12:45:00+09:00,2024-04-30T12:45:00+09:00
