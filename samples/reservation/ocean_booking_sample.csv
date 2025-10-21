@@ -1,0 +1,6 @@
+booking_no,location_code,service_date,service_start,pax,area,booking_source,lead_time_minutes,guest_token,guest_name,guest_contact,status,seated_at,no_show_flag,created_at,modified_at
+OB-20240501-0001,ST-001,2024-05-03,2024-05-03T09:00:00Z,4,Main,API,2880,,Hanako Sato,+81-90-1111-2222,Booked,,false,2024-04-30T09:00:00Z,2024-04-30T09:00:00Z
+OB-20240501-0002,ST-001,2024-05-03,2024-05-03T11:00:00Z,2,Counter,Web,720,GT-9988,Taro Tanaka,taro@example.com,Seated,2024-05-03T11:05:00Z,false,2024-04-30T12:00:00Z,2024-05-03T11:05:00Z
+OB-20240501-0003,ST-002,2024-05-04,2024-05-04T10:30:00Z,3,Patio,Walk-in,30,,Lee Min,+82-10-5555-6666,Seated,2024-05-04T10:32:00Z,false,2024-05-04T10:00:00Z,2024-05-04T10:32:00Z
+OB-20240501-0004,ST-002,2024-05-04,2024-05-04T12:00:00Z,2,Patio,Web,1440,GT-7711,Akiko Ito,+81-80-7777-8888,No-show,,true,2024-05-03T12:00:00Z,2024-05-04T12:30:00Z
+OB-20240501-0005,ST-003,2024-05-02,2024-05-02T03:30:00Z,6,Private,API,4320,,Jiro Suzuki,+81-70-9999-0000,Booked,,false,2024-04-29T12:00:00Z,2024-04-29T12:00:00Z
